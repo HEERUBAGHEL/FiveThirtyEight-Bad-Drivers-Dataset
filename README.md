@@ -1,0 +1,2 @@
+# FiveThirtyEight-Bad-Drivers-Dataset
+Context This is a dataset from FiveThirtyEight hosted on their GitHub. Explore FiveThirtyEight data using Kaggle and all of the data sources available through the FiveThirtyEight organization page!  Update Frequency: This dataset is updated daily. Acknowledgements This dataset is maintained using GitHub's API and Kaggle's API.  This dataset is distributed under the Attribution 4.0 International (CC BY 4.0) license.
